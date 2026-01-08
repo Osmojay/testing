@@ -12,7 +12,7 @@ This project analyzes company sales data to uncover performance trends, identify
 Sample Superstore sales dataset containing order-level data such as sales, profit, product category, region, and customer segment.
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib)
 - Jupyter Notebook
 
 ## Key Insights
